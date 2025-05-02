@@ -42,10 +42,4 @@ This project presents a detailed analysis of the cost structure and profitabilit
 - `food_delivery_cost_and_profitability_analysis_using_python.py`: Main analysis script.
 - `README.md`: Project overview and documentation.
 
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
 **Optimize smarter, deliver better, and grow profitably!**
